@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-Test script to list all registered routes
-"""
+
 
 from app import create_app
 
